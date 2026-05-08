@@ -56,6 +56,14 @@ npm install
 npm run web
 ```
 
+Para abrir no celular com mais facilidade, use o tunnel do Expo:
+
+```bash
+npm run tunnel
+```
+
+Depois, escaneie o QR code no Expo Go.
+
 Se quiser abrir no celular ou emulador:
 
 ```bash
